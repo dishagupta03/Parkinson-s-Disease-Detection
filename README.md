@@ -1,2 +1,2 @@
-# Parkinson-s-Disease-Detection
+# Parkinsons-Disease-Detection
 Parkinson's Disease Detection
